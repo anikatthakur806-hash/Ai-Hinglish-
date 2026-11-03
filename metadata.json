@@ -1,0 +1,6 @@
+{
+  "name": "HiTranslate",
+  "description": "Instant Hinglish to Hindi chat translator with floating ball widget, chat overlay, speech to text, and Hindi transliteration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
